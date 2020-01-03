@@ -24,7 +24,7 @@ theme = "aerial"
 [[params.social]]
   medium = "Linkedin"
   icon = "linkedin"
-  link = "www.linkedin.com/in/johnkelvin"
+  link = "https://www.linkedin.com/in/johnkelvin"
 
 [[params.social]]
   medium = "Github"
@@ -34,4 +34,4 @@ theme = "aerial"
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "admin@johnkelvin.com"
+  link = "mailto:admin@johnkelvin.com"
