@@ -4,9 +4,9 @@ baseurl = "http://example.org/"
 theme = "aerial"
 
 [params]
-  name = "Adam Jensen"
-  about = "Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
-  copyright = "Untitled"
+  name = "John Kelvin Jayabala"
+  about = "Technology Enthusiast &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Something In-between"
+  copyright = "John Kelvin Jayabala"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
@@ -14,24 +14,24 @@ theme = "aerial"
 [[params.social]]
   medium = "Twitter"
   icon = "twitter"
-  link = "#"
+  link = "https://twitter.com/backyardbangerz"
 
 [[params.social]]
   medium = "Facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/john.kelvin.jayabala"
 
 [[params.social]]
-  medium = "Dribbble"
-  icon = "dribbble"
-  link = "#"
+  medium = "Linkedin"
+  icon = "linkedin"
+  link = "www.linkedin.com/in/johnkelvin"
 
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "#"
+  link = "https://github.com/johnkelvinjayabala"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "admin@johnkelvin.com"
